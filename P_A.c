@@ -8,5 +8,9 @@ void main(){
     for (int i = 0; i < 4; i++){
         printf("%p\n", &myNumbers[i]);
     }
-    
+
+    //print lal element on a line using for loop and pointer
+    for (int i = 0; i < 4; i++){
+        printf("%d  ", (myNumbers[i]));
+    }
 }
