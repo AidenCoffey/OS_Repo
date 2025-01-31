@@ -11,7 +11,7 @@ struct House
 };
 
 int main(){
-
+    
     struct House house1 = {"19723 deerlake road", "4000", 5, 3.5,750000};
     struct House house2 = {"1723 blackroom lane", "1200", 2, 1,50000};
     struct House house3 = {"insert other house", "10000", 2, 12,1800000};

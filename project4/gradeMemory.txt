@@ -1,0 +1,2 @@
+Student #1 got a grade of 1
+Student #2 got a grade of 2
